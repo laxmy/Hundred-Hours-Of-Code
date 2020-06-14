@@ -1,0 +1,12 @@
+/Users/lakshmysubramaniam/github/interviewPrep/Hundred-Hours-Of-Code/bin/Debug/netcoreapp3.1/Hundred-Hours-Of-Code.deps.json
+/Users/lakshmysubramaniam/github/interviewPrep/Hundred-Hours-Of-Code/bin/Debug/netcoreapp3.1/Hundred-Hours-Of-Code.runtimeconfig.json
+/Users/lakshmysubramaniam/github/interviewPrep/Hundred-Hours-Of-Code/bin/Debug/netcoreapp3.1/Hundred-Hours-Of-Code.runtimeconfig.dev.json
+/Users/lakshmysubramaniam/github/interviewPrep/Hundred-Hours-Of-Code/bin/Debug/netcoreapp3.1/Hundred-Hours-Of-Code.dll
+/Users/lakshmysubramaniam/github/interviewPrep/Hundred-Hours-Of-Code/bin/Debug/netcoreapp3.1/Hundred-Hours-Of-Code.pdb
+/Users/lakshmysubramaniam/github/interviewPrep/Hundred-Hours-Of-Code/obj/Debug/netcoreapp3.1/Hundred-Hours-Of-Code.csprojAssemblyReference.cache
+/Users/lakshmysubramaniam/github/interviewPrep/Hundred-Hours-Of-Code/obj/Debug/netcoreapp3.1/Hundred-Hours-Of-Code.AssemblyInfoInputs.cache
+/Users/lakshmysubramaniam/github/interviewPrep/Hundred-Hours-Of-Code/obj/Debug/netcoreapp3.1/Hundred-Hours-Of-Code.AssemblyInfo.cs
+/Users/lakshmysubramaniam/github/interviewPrep/Hundred-Hours-Of-Code/obj/Debug/netcoreapp3.1/Hundred-Hours-Of-Code.csproj.CoreCompileInputs.cache
+/Users/lakshmysubramaniam/github/interviewPrep/Hundred-Hours-Of-Code/obj/Debug/netcoreapp3.1/Hundred-Hours-Of-Code.dll
+/Users/lakshmysubramaniam/github/interviewPrep/Hundred-Hours-Of-Code/obj/Debug/netcoreapp3.1/Hundred-Hours-Of-Code.pdb
+/Users/lakshmysubramaniam/github/interviewPrep/Hundred-Hours-Of-Code/obj/Debug/netcoreapp3.1/Hundred-Hours-Of-Code.genruntimeconfig.cache
